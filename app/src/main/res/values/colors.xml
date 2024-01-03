@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#25c998</color>
+    <color name="colorPrimaryDark">#25a186</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="Grey">#878585</color>
+    <color name="black">#000000</color>
+    <color name="gray1">#999898</color>
+    <color name="blogname">#25c998</color>
+    <color name="colorBackground">#f9f9fa</color>
+    <color name="colorTextSubtitle">#4e4e4e</color>
+    <color name="colorTextTitle">#262626</color>
+    <color name="post_title">#25a186</color>
+</resources>
